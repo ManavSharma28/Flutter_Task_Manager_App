@@ -1,7 +1,7 @@
 # task_manager
 
-A new Flutter project.
-
+A new Flutter project to manage your tasks efficiently with an gradient UI where you can add edit and delete tasks and also filter put based on priority.
+Tasks are saved with their description priority, due date and time.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
